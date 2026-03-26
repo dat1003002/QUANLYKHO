@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nhapkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\BarcodeScanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Chitietkiemkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\fLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\fLoading.Designer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\Lichsunhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Lichsuxuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\uc_dieutrakho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\uc_khuvuc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\uc_nhapkho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\uc_trangthai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\uc_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\uc_xuatkho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\uc_xuong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\unit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\xuatkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="UI\fLoading.resx">
+      <SubType>Code</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
